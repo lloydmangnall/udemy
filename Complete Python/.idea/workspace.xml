@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0415163b-efe6-4253-a744-b7ac284b84ee" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 7/7-46-Tuples.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-87-GuiExample-Part2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 7/7-38-Lists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-93-Functions-Part3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/locations.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 6/6-34-ProgramFlowChallenge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 6/6-28-IF-ELIF-ELSE.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 7/7-44-Ranges.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/book.dir" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/10-66-FileIO-Shelve.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/sample_original.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/10-63-FileIO-Append.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-102-Blackjack-GlobalKeyword.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-105-ImportTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 9/9-58-Sets.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-80-Timezones.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 7/7-41-ListsChallenge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/cities.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 7/7-45-Tuples.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-87-GuiExample-Part3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-94-ParabolaFuntion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 9/9-55-DictionariesChallenge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 6/6-37-WhileLoopChallenge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/recipes.dir" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/game_locations.dir" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/game_locations.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 6/6-32-ContinueBreakElse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-83-TimezoneChallenge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/10-64-FileIO-Binary.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/ShelfTest.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-87-GuiExample-Part1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/10-61-FileIO-Read.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/10-65-FileIO-Pickle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/imelda.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/vocabulary.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-101-Blackjack-GlobalVariables.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 6/6-26-IF-ELIF-ELSE.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/book.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/lloyd.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-98-Blackjack-Setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 9/9-54-Dictionaries.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-75-DateTime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 5/5-22-Variables.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/binary2.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 7/7-43-Ranges.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 6/6-36-WhileLoops.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 9/9-56-DictionaryMethods.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/10-62-FileIO-Write.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/ShelfTest.dir" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 5/5-24-StringFormatting.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-96-CircleFuntion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-95-FuntionScope.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 9/9-57-DictionariesChallenge2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 8/8-49-NumberSystems.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/10-69-FileIO-CommonError.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-86-GeometryManager-Grid.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-74-LibraryDocumentation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-91-Functions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 6/6-30-ForLoops.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/binary.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/sample.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/bike.dir" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-90-TkinterChallenge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 7/7-46-TupleChallenge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 9/9-56-UpdatedGame.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 6/6-29-IF-ELSE Challenge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 9/9-54-MapGame.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/imelda.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-99-Blackjack-LoadCards.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/vocabulary.dir" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-100-Blackjack-DealCards.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 6/6-35-ProgramFlowPart2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-82-Timezones.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/10-67-FileIO-Shelve.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 9/9-52-Dictionaries.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 9/9-53-Dictionaries.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/10-68-FileIO-ShelveUpdate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-84-GUI-tkinter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/10-70-FileIO-cave_initialize.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 7/7-42-Iterators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 5/5-21-Input.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-76-TimeChallenge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-104-Blackjack-Challenge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 9/9-59-SetsChallenge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/locations.dir" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/10-70-FileIO-cave_game.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 6/6-33-AugmentedAssignment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 5/5-19-Introduction.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-85-GeometryManager-Pack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/bike.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 10/recipes.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 11/11-77-Timezones.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section 6/6-31-ExtendingForLoops.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Complete_Python$11_90_TkinterChallenge.coverage" NAME="11-90-TkinterChallenge Coverage Results" MODIFIED="1504473653878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$10_70_FileIO_cave_game.coverage" NAME="10-70-FileIO-cave_game Coverage Results" MODIFIED="1504298907492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_105_ImportTest.coverage" NAME="11-105-ImportTest Coverage Results" MODIFIED="1504738868799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$6_35_ProgramFlowPart2.coverage" NAME="6-35-ProgramFlowPart2 Coverage Results" MODIFIED="1504031586119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$10_67_FileIO_Shelve.coverage" NAME="10-67-FileIO-Shelve Coverage Results" MODIFIED="1504282276443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_72_Modules.coverage" NAME="11-72-Modules Coverage Results" MODIFIED="1504300221146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$6_32_ContinueBreakElse.coverage" NAME="6-32-ContinueBreakElse Coverage Results" MODIFIED="1503966203808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$7_41_ListsChallenge.coverage" NAME="7-41-ListsChallenge Coverage Results" MODIFIED="1504040307657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_75_DateTime.coverage" NAME="11-75-DateTime Coverage Results" MODIFIED="1504370592428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_106_PythonUnderscores.coverage" NAME="11-106-PythonUnderscores Coverage Results" MODIFIED="1504740665889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$7_44_Ranges.coverage" NAME="7-44-Ranges Coverage Results" MODIFIED="1504047398149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$10_68_FileIO_ShelveUpdate.coverage" NAME="10-68-FileIO-ShelveUpdate Coverage Results" MODIFIED="1504289701146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_107_ScopeAndNamespaces.coverage" NAME="11-107-ScopeAndNamespaces Coverage Results" MODIFIED="1504742200387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$10_69_FileIOChallenge.coverage" NAME="10-69-FileIOChallenge Coverage Results" MODIFIED="1504291991010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_74_Modules.coverage" NAME="11-74-Modules Coverage Results" MODIFIED="1504367044994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$10_63_FileIO_Append.coverage" NAME="10-63-FileIO-Append Coverage Results" MODIFIED="1504217715996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$7_45_Tuples.coverage" NAME="7-45-Tuples Coverage Results" MODIFIED="1504048845159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_96_FixFuntion.coverage" NAME="11-96-FixFuntion Coverage Results" MODIFIED="1504715152800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_98_BlackjackSetup.coverage" NAME="11-98-BlackjackSetup Coverage Results" MODIFIED="1504721589434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$InputTutorial.coverage" NAME="InputTutorial Coverage Results" MODIFIED="1501970972437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$6_29_IF_ELSE_Challenge.coverage" NAME="6-29-IF-ELSE Challenge Coverage Results" MODIFIED="1503962465650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$10_65_FileIO_Pickle.coverage" NAME="10-65-FileIO-Pickle Coverage Results" MODIFIED="1504228415314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$10_64_FileIO_Binary.coverage" NAME="10-64-FileIO-Binary Coverage Results" MODIFIED="1504219066845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_107_Namespaces.coverage" NAME="11-107-Namespaces Coverage Results" MODIFIED="1504740852191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$7_46_Tuples.coverage" NAME="7-46-Tuples Coverage Results" MODIFIED="1504050230656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$9_59_SetsChallenge.coverage" NAME="9-59-SetsChallenge Coverage Results" MODIFIED="1504207932112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$FlowControl.coverage" NAME="FlowControl Coverage Results" MODIFIED="1503957583083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$9_56_UpdatedGame.coverage" NAME="9-56-UpdatedGame Coverage Results" MODIFIED="1504121095456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$10_61_FileIO.coverage" NAME="10-61-FileIO Coverage Results" MODIFIED="1504212930643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_104_Blackjack_Challenge.coverage" NAME="11-104-Blackjack-Challenge Coverage Results" MODIFIED="1504733911811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_77_DateTime.coverage" NAME="11-77-DateTime Coverage Results" MODIFIED="1504454838873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_85_GeometryManager_Pack.coverage" NAME="11-85-GeometryManager-Pack Coverage Results" MODIFIED="1504463182184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_108_RecursionUsingOS.coverage" NAME="11-108-RecursionUsingOS Coverage Results" MODIFIED="1504742886479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$9_54_DictionariesSets.coverage" NAME="9-54-DictionariesSets Coverage Results" MODIFIED="1504114297390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$7_42_Iterators.coverage" NAME="7-42-Iterators Coverage Results" MODIFIED="1504041506074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_85_GUI_GeometryManager.coverage" NAME="11-85-GUI-GeometryManager Coverage Results" MODIFIED="1504462598808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_86_GeometryManager_Place.coverage" NAME="11-86-GeometryManager-Place Coverage Results" MODIFIED="1504463437453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_100_Blackjack_DealCards.coverage" NAME="11-100-Blackjack-DealCards Coverage Results" MODIFIED="1504724019461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$7_46_TupleChallenge.coverage" NAME="7-46-TupleChallenge Coverage Results" MODIFIED="1504052236223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_87_GuiExample_Part3.coverage" NAME="11-87-GuiExample-Part3 Coverage Results" MODIFIED="1504472500073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$blackjack.coverage" NAME="blackjack Coverage Results" MODIFIED="1504738465965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$9_58_Sets.coverage" NAME="9-58-Sets Coverage Results" MODIFIED="1504207029828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_93_Functions_Part3.coverage" NAME="11-93-Functions-Part3 Coverage Results" MODIFIED="1504640318532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$6_34_ProgramFlowChallenge.coverage" NAME="6-34-ProgramFlowChallenge Coverage Results" MODIFIED="1504030955868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_84_GUI_tkinter.coverage" NAME="11-84-GUI-tkinter Coverage Results" MODIFIED="1504461904451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$StringFormatting.coverage" NAME="StringFormatting Coverage Results" MODIFIED="1503875081028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$6_31_ForLoops.coverage" NAME="6-31-ForLoops Coverage Results" MODIFIED="1503964442119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_76_TimeChallenge.coverage" NAME="11-76-TimeChallenge Coverage Results" MODIFIED="1504371140792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$6_37_WhileLoopChallenge.coverage" NAME="6-37-WhileLoopChallenge Coverage Results" MODIFIED="1504033868500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_94_ParabolaFuntions.coverage" NAME="11-94-ParabolaFuntions Coverage Results" MODIFIED="1504713878955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_101_Blackjack_GlobalVariables.coverage" NAME="11-101-Blackjack-GlobalVariables Coverage Results" MODIFIED="1504724658361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_102_Blackjack_GlobalKeyword.coverage" NAME="11-102-Blackjack-GlobalKeyword Coverage Results" MODIFIED="1504732138345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$9_55_DictionariesChallenge.coverage" NAME="9-55-DictionariesChallenge Coverage Results" MODIFIED="1504118181185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$6_36_WhileLoops.coverage" NAME="6-36-WhileLoops Coverage Results" MODIFIED="1504032909303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$8_49_BinaryBasics.coverage" NAME="8-49-BinaryBasics Coverage Results" MODIFIED="1504104865464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$6_33_AugmentedAssignment.coverage" NAME="6-33-AugmentedAssignment Coverage Results" MODIFIED="1503966778274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_87_GuiExample_Part2.coverage" NAME="11-87-GuiExample-Part2 Coverage Results" MODIFIED="1504471231158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$9_53_DictionariesSets.coverage" NAME="9-53-DictionariesSets Coverage Results" MODIFIED="1504113668861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_77_Timezones.coverage" NAME="11-77-Timezones Coverage Results" MODIFIED="1504452420365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$9_54_MapGame.coverage" NAME="9-54-MapGame Coverage Results" MODIFIED="1504116349852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$9_57_DictionariesChallenge2.coverage" NAME="9-57-DictionariesChallenge2 Coverage Results" MODIFIED="1504127812092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_96_CircleFuntion.coverage" NAME="11-96-CircleFuntion Coverage Results" MODIFIED="1504716525613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$7_43_Ranges.coverage" NAME="7-43-Ranges Coverage Results" MODIFIED="1504045937949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$VariableTutorial.coverage" NAME="VariableTutorial Coverage Results" MODIFIED="1503873614972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_73_PythonStandardLibrary.coverage" NAME="11-73-PythonStandardLibrary Coverage Results" MODIFIED="1504302177938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1501970136481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$9_52_DictionariesSets.coverage" NAME="9-52-DictionariesSets Coverage Results" MODIFIED="1504111359385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$10_66_FileIO_Shelve.coverage" NAME="10-66-FileIO-Shelve Coverage Results" MODIFIED="1504281268394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_87_GuiExample_Part1.coverage" NAME="11-87-GuiExample-Part1 Coverage Results" MODIFIED="1504465535556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$6_28_FlowControl.coverage" NAME="6-28-FlowControl Coverage Results" MODIFIED="1503962119765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$6_30_ForLoops.coverage" NAME="6-30-ForLoops Coverage Results" MODIFIED="1503963418180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$7_38_Lists.coverage" NAME="7-38-Lists Coverage Results" MODIFIED="1504039847777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$9_56_DictionaryMethods.coverage" NAME="9-56-DictionaryMethods Coverage Results" MODIFIED="1504119105109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$10_62_FileIO_Write.coverage" NAME="10-62-FileIO-Write Coverage Results" MODIFIED="1504214118887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_83_TimezoneChallenge.coverage" NAME="11-83-TimezoneChallenge Coverage Results" MODIFIED="1504459154426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_82_Timezones.coverage" NAME="11-82-Timezones Coverage Results" MODIFIED="1504457435984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_80_Timezones.coverage" NAME="11-80-Timezones Coverage Results" MODIFIED="1504458524106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+    <SUITE FILE_PATH="coverage/Complete_Python$10_70_FileIO_cave_initialize.coverage" NAME="10-70-FileIO-cave_initialize Coverage Results" MODIFIED="1504298723153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Complete_Python$11_91_Functions.coverage" NAME="11-91-Functions Coverage Results" MODIFIED="1504571621511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section 11" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Complete Python" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="11-109-NonlocalKeyword.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Section 11/11-109-NonlocalKeyword.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/10-67-FileIO-Shelve.py" />
+        <option value="$PROJECT_DIR$/10-68-FileIO-ShelveUpdate.py" />
+        <option value="$PROJECT_DIR$/10-69-FileIOChallenge.py" />
+        <option value="$PROJECT_DIR$/9-57-DictionariesChallenge2.py" />
+        <option value="$PROJECT_DIR$/10-69-FileIO-CommonError.py" />
+        <option value="$PROJECT_DIR$/10-70-FileIO-cave_game.py" />
+        <option value="$PROJECT_DIR$/10-70-FileIO-cave_initialize.py" />
+        <option value="$PROJECT_DIR$/11-72-Modules.py" />
+        <option value="$PROJECT_DIR$/11-73-PythonStandardLibrary.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-72-Modules.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-73-PythonStandardLibrary.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-74-Modules.py" />
+        <option value="$PROJECT_DIR$/Section 11/10-75-DateTime.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-74-LibraryDocumentation.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-75-DateTime.py" />
+        <option value="$PROJECT_DIR$/11-76-TimeChallenge.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-76-TimeChallenge.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-77-Timezones.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-77-DateTime.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-80-Timezones.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-82-Timezones.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-83-TimezoneChallenge.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-84-GUI-tkinter.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-85-GUI-GeometryManager.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-85-GeometryManager-Pack.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-86-GeometryManager-Place.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-87-GuiExample.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-87-GuiExample-Part1.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-87-GuiExample-Part2.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-87-GuiExample-Part3.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-90-TkinterChallenge.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-91-Functions.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-93-Functions-Part3.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-94-ParabolaFuntions.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-96-FixFuntion.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-96-CircleFuntion.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-98-BlackjackGame.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-98-BlackjackSetup.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-100-Blackjack-DealCards.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-98-Blackjack-Setup.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-101-Blackjack-GlobalVariables.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-102-Blackjack-GlobalKeyword.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-104-Blackjack-Challenge.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-105-ImportTest.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-106-PythonUnderscores.py" />
+        <option value="$PROJECT_DIR$/Section 11/blackjack.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-107-Namespaces.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-107-ScopeAndNamespaces.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-108-Recursion.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-108-RecursionUsingOS.py" />
+        <option value="$PROJECT_DIR$/Section 11/11-109-NonlocalKeyword.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1891" />
+    <option name="width" value="1548" />
+    <option name="height" value="1399" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Complete Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Complete Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Complete Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Complete Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 11" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/lloyd/OneDrive/Code/GitHub/udemy/Complete Python/Section 11/11-74-LibraryDocumentation.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lloyd\OneDrive\Code\GitHub\udemy\Complete Python\Section 11" />
+      <recent name="C:\Users\lloyd\OneDrive\Code\GitHub\udemy\Complete Python" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lloyd\OneDrive\Code\GitHub\udemy\Complete Python\Section 11\cards" />
+      <recent name="C:\Users\lloyd\OneDrive\Code\GitHub\udemy\Complete Python\Section 11" />
+      <recent name="C:\Users\lloyd\OneDrive\Code\GitHub\udemy\Complete Python\Section 10" />
+      <recent name="C:\Users\lloyd\OneDrive\Code\GitHub\udemy\Complete Python\Section 9" />
+      <recent name="C:\Users\lloyd\OneDrive\Code\GitHub\udemy\Complete Python\Section 8" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.11-108-RecursionUsingOS">
+    <configuration name="11-105-ImportTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section 11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Complete Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section 11/11-105-ImportTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="11-106-PythonUnderscores" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section 11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Complete Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section 11/11-106-PythonUnderscores.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="11-107-Namespaces" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section 11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Complete Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\lloyd\OneDrive\Code\GitHub\udemy\Complete Python\Section 11\11-107-ScopeAndNamespaces.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="11-107-ScopeAndNamespaces" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section 11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Complete Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section 11/11-107-ScopeAndNamespaces.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="11-108-RecursionUsingOS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section 11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Complete Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section 11/11-108-RecursionUsingOS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Complete Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Complete Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Complete Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Complete Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Complete Python" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Complete Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Complete Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.11-105-ImportTest" />
+      <item index="1" class="java.lang.String" itemvalue="Python.11-106-PythonUnderscores" />
+      <item index="2" class="java.lang.String" itemvalue="Python.11-107-Namespaces" />
+      <item index="3" class="java.lang.String" itemvalue="Python.11-107-ScopeAndNamespaces" />
+      <item index="4" class="java.lang.String" itemvalue="Python.11-108-RecursionUsingOS" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.11-108-RecursionUsingOS" />
+        <item index="1" class="java.lang.String" itemvalue="Python.11-107-ScopeAndNamespaces" />
+        <item index="2" class="java.lang.String" itemvalue="Python.11-107-Namespaces" />
+        <item index="3" class="java.lang.String" itemvalue="Python.11-106-PythonUnderscores" />
+        <item index="4" class="java.lang.String" itemvalue="Python.11-105-ImportTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0415163b-efe6-4253-a744-b7ac284b84ee" name="Default" comment="" />
+      <created>1501968205176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501968205176</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1891" y="0" width="1548" height="1399" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41381988" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16383812" sideWeight="0.49369085" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.25" sideWeight="0.5055292" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Section 11/11-86-GeometryManager-Grid.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/times_tables.txt" />
+    <entry file="file://$PROJECT_DIR$/Section 10/sample.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2926">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 10/10-63-FileIO-Append.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 10/binary.bin">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 10/10-64-FileIO-Binary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="32" column="47" lean-forward="false" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 10/10-65-FileIO-Pickle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 10/10-66-FileIO-Shelve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 9/9-56-DictionaryMethods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="11" lean-forward="false" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 9/9-55-DictionariesChallenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 9/9-56-UpdatedGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 10/10-67-FileIO-Shelve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 10/10-68-FileIO-ShelveUpdate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 10/10-69-FileIO-CommonError.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 9/9-57-DictionariesChallenge2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="70" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 10/10-70-FileIO-cave_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 10/10-70-FileIO-cave_initialize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/shelve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1054">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-73-PythonStandardLibrary.py" />
+    <entry file="file://$PROJECT_DIR$/Section 11/11-74-LibraryDocumentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-76-TimeChallenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-75-DateTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-77-Timezones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-82-Timezones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="55" lean-forward="false" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-80-Timezones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-83-TimezoneChallenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-84-GUI-tkinter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-85-GeometryManager-Pack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-87-GuiExample-Part1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-86-GeometryManager-Grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-87-GuiExample-Part2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1021">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-87-GuiExample-Part3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="87" column="49" lean-forward="false" selection-start-line="87" selection-start-column="49" selection-end-line="87" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Modules-and-Functions-in-Python-Tkinter-Challenge-Source-code.zip/screen.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1090894943/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="475" column="4" lean-forward="false" selection-start-line="475" selection-start-column="4" selection-end-line="475" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/menu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-90-TkinterChallenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-93-Functions-Part3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-91-Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-94-ParabolaFuntion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-96-CircleFuntion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1101">
+          <caret line="56" column="38" lean-forward="false" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-98-Blackjack-Setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-100-Blackjack-DealCards.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-101-Blackjack-GlobalVariables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="48" column="6" lean-forward="true" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Modules-and-Functions-in-Python-Test-Blackjack-Game-Source-code.zip/Blackjack/blackjack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1298">
+          <caret line="43" column="38" lean-forward="false" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-102-Blackjack-GlobalKeyword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-104-Blackjack-Challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-105-ImportTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-106-PythonUnderscores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/blackjack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-107-ScopeAndNamespaces.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="27" lean-forward="false" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-108-RecursionUsingOS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 11/11-109-NonlocalKeyword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
